@@ -1,0 +1,48 @@
+1 Pg 10 false
+4 kp 10 true { 33 true SL 50 false } 34 true
+1 SL 50 false
+3 Ss 51 false ; 7 true SL 50 false
+1 Ss 51 false
+3 id 2 true = 45 true Y4 52 false
+1 Ss 51 false
+2 S0 53 false
+1 Y4 52 false
+2 E 56 false
+1 Y4 52 false
+2 ki 22 true
+1 SO 53 false
+4 ko 23 true ( 37 true EL 54 false ) 38 true
+1 EL 54 false
+2 E 56 false E2 55 false
+1 E2 55 false
+2 , 6 true EL 54 false
+1 E 56 false
+2 T 58 false E_ 57 false
+1 E_ 57 false
+3 Oa 62 false T 58 false E_ 57 false
+1 T 58 false
+2 F 60 false T_ 59 false
+1 T_ 59 false
+3 Om 63 false F 60 false T_ 59 false
+1 F 60 false
+2 Fa 61 false
+1 F 60 false
+3 ( 37 true E 56 false ) 38 true
+1 Fa 61 false
+2 id 2 true
+1 Fa 61 false
+2 it 3 true
+1 Fa 61 false
+2 fl 4 true
+1 Fa 61 false
+2 st 5 true
+1 Oa 62 false
+2 + 47 true
+1 Oa 62 false
+2 - 46 true
+1 Om 63 false
+2 * 41 true
+1 Om 63 false
+2 / 48 true
+1 Om 63 false
+2 ^ 42 true
